@@ -1,5 +1,3 @@
-import gsap from "gsap";
-
 const menuItems = [
     {
         label: "Vision",
